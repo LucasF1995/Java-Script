@@ -1,0 +1,1 @@
+alert('Tayná, Eu te amo s2')
